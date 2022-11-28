@@ -5,10 +5,17 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<style>
+
+</style>
 </head>
 <body>
 
-<h1>title</h1>
+<h1>Grocery shit</h1>
+<a href="homepage.jsp">
+            <button class="btn btn-primary btn-lg">Click</button>
+        </a>
+
 
 </body>
 </html>
