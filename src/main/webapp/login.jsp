@@ -50,7 +50,7 @@ button:hover {
 }
 
 img.avatar {
-	width: 40%;
+	width: 20%;
 	border-radius: 50%;
 }
 
@@ -82,7 +82,7 @@ span.psw {
 
 	<form action="/action_page.php" method="post">
 		<div class="imgcontainer">
-			<img src="img_avatar2.png" alt="Avatar" class="avatar">
+			<img src="https://www.w3schools.com/howto/img_avatar.png" alt="Avatar" class="avatar">
 		</div>
 
 		<div class="container">
@@ -91,8 +91,15 @@ span.psw {
 				for="psw"><b>Password</b></label> <input type="password"
 				placeholder="Enter Password" name="psw" >
 
-			<button type="submit">Login</button>
-			<button type="submit">Register</button>
+          
+          <a href="home.jsp">LOGIN</a>
+          
+           <a href="register.jsp">REGISTER</a>
+          
+          
+        
+        
+        
 			<label> <input type="checkbox" checked="checked"
 				name="remember"> Remember me
 			</label>

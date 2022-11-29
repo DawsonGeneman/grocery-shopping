@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Products Page</title>
+https://github.com/DawsonGeneman/grocery-shopping/pull/6/conflict?name=src%252Fmain%252Fwebapp%252Fproducts.jsp&ancestor_oid=4342ff044f3150fcc42baccd1d6d9232fa588af1&base_oid=44be2984fad93cf18886513b8c9cf6cb8152a0df&head_oid=831dacefc54b7529e331484bf8d0d4a9f542eb28<title>Products Page</title>
 </head>
 
 <style>
@@ -47,6 +47,7 @@ a {
 		rgba(0, 0, 0, 0.22);
 	transition: .4s;
 	background: #f2f2f2;
+	
 }
 
 .content:hover {
@@ -66,6 +67,7 @@ p {
 	text-align: center;
 	color: black;
 	padding-top: 0 8px;
+	
 }
 
 h6 {
@@ -196,7 +198,7 @@ li a:hover {
 
 			<h3>Apples</h3>
 
-			<p>lorem</p>
+
 
 			<h6>$10</h6>
 
@@ -213,7 +215,7 @@ li a:hover {
 
 			<h3>Banana</h3>
 
-			<p>lorem</p>
+
 
 			<h6>$4</h6>
 
@@ -233,7 +235,7 @@ li a:hover {
 
 			<h3>Oranges</h3>
 
-			<p>lorem</p>
+
 
 			<h6>$5</h6>
 
@@ -253,7 +255,7 @@ li a:hover {
 
 			<h3>Pear</h3>
 
-			<p>lorem</p>
+
 
 			<h6>$5</h6>
 
