@@ -196,10 +196,7 @@ li a:hover {
 
 			<h3>Apples</h3>
 
-			<p>China Fuji apples have bright red stripes over its creamy
-				yellow flesh. Their flesh is sweet whilst having a firm, and crisp
-				texture. They are grown in ideal weather conditions which produces
-				high quality and shape.</p>
+			<p>lorem</p>
 
 			<h6>$10</h6>
 
@@ -216,10 +213,7 @@ li a:hover {
 
 			<h3>Banana</h3>
 
-			<p>These bananas have a smooth bright yellow skin. Peel it back
-				to reveal a firm flesh that is mildly sweet. Recharge yourself with
-				a banana after a workout for a guilt-free snack or indulge yourself
-				with it as a topping for your desserts.</p>
+			<p>lorem</p>
 
 			<h6>$4</h6>
 
@@ -239,10 +233,7 @@ li a:hover {
 
 			<h3>Oranges</h3>
 
-			<p>The mandarin is reddish-orange and oblate in shape with a
-				soft, thin skin, which makes it easy to peel. It has a well-balanced
-				sweet and acidic taste. Bite down in them raw for a quick snack to
-				fill your tummy.</p>
+			<p>lorem</p>
 
 			<h6>$5</h6>
 
@@ -262,9 +253,7 @@ li a:hover {
 
 			<h3>Pear</h3>
 
-			<p>A fruit with a wide bottom, the Packham pear is green with
-				dark spots on the skin. It boast a sweet and juicy white flesh that
-				has a smooth and crisp texture.</p>
+			<p>lorem</p>
 
 			<h6>$5</h6>
 
