@@ -96,6 +96,30 @@ hr {
 	border: 1px solid lightgrey;
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
 span.price {
 	float: right;
 	color: grey;
@@ -111,9 +135,17 @@ span.price {
 	}
 }
 </style>
-</style>
+
 
 <body>
+
+
+	<ul>
+		<li><a class="active" href="#home">Home</a></li>
+		<li><a href="#news">News</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<li><a href="#about">About</a></li>
+	</ul>
 
 	<h2>Responsive Checkout Form</h2>
 	<p>Resize the browser window to see the effect. When the screen is

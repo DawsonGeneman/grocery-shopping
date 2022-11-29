@@ -13,37 +13,58 @@
 body, h1, h2, h3, h4, h5, h6 {
 	font-family: "Amatic SC", sans-serif
 }
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
 </style>
 <body>
-	<!-- Start Content -->
-	<div id="home" class="w3-content">
+	<ul>
+		<li><a class="active" href="#home">Home</a></li>
+		<li><a href="#news">News</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<li><a href="#about">About</a></li>
+	</ul>
 
-		<!-- Navbar (Sits on top) -->
-		<div class="w3-top w3-bar w3-xlarge w3-black w3-opacity-min">
-			<a href="#home" class="w3-bar-item w3-button">HOME</a> <a
-				href="#menu" class="w3-bar-item w3-button">MENU</a> <a href="#about"
-				class="w3-bar-item w3-button">ABOUT</a> <a href="#contact"
-				class="w3-bar-item w3-button">CONTACT</a>
+	<!-- Header image -->
+	<div
+		style="height: 800px; background-image: url('https://media.timeout.com/images/105790644/750/562/image.jpg'); background-size: cover"
+		class="w3-display-container w3-grayscale-min">
+		<div class="w3-display-bottomleft">
+			<span class="w3-tag w3-xlarge">Open from 10am to 12pm</span>
 		</div>
-
-		<!-- Header image -->
-		<div
-			style="height: 800px; background-image: url('https://media.timeout.com/images/105790644/750/562/image.jpg'); background-size: cover"
-			class="w3-display-container w3-grayscale-min">
-			<div class="w3-display-bottomleft">
-				<span class="w3-tag w3-xlarge">Open from 10am to 12pm</span>
-			</div>
-			<div class="w3-display-middle w3-center">
-				<span class="w3-text-white" style="font-size: 100px">GORDON'S<br>GROCERY
-					STORE
-				</span>
-				<p>
-					<a href="#menu" class="w3-button w3-xxlarge w3-black">Products Available</a>
-				</p>
-			</div>
+		<div class="w3-display-middle w3-center">
+			<span class="w3-text-white" style="font-size: 100px">GORDON'S<br>GROCERY
+				STORE
+			</span>
+			<p>
+				<a href="#menu" class="w3-button w3-xxlarge w3-black">Products
+					Available</a>
+			</p>
 		</div>
+	</div>
 
-		<!-- End Content -->
+	<!-- End Content -->
 	</div>
 </body>
 </html>
