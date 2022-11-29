@@ -19,11 +19,7 @@ body, h1, h2, h3, h4, h5, h6 {
 		<div id="about"
 			class="w3-container w3-red w3-grayscale w3-xlarge w3-padding-64">
 			<h1 class="w3-center w3-jumbo">About</h1>
-			<p>The Pizza Restaurant was founded in blabla by Mr. Italiano in
-				lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-				eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-				ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-				aliquip ex ea commodo consequat.</p>
+			<p> Grocery shopping a place of convienience for everyone buyiing stuff .</p>
 			<p>
 				<strong>The Chef?</strong> Mr. Italiano himself<img
 					src="https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png"
@@ -32,7 +28,7 @@ body, h1, h2, h3, h4, h5, h6 {
 			<p>We are proud of our interiors.</p>
 			<p class="w3-padding-16 w3-stretch">
 				<img
-					src="https://www.sassymamasg.com/wp-content/uploads/2022/10/MsMariaMrSingh_new-restaurant-gaggan-singapore.jpg"
+					src="https://media.timeout.com/images/105380546/image.jpg"
 					style="width: 100%" alt="Restaurant">
 			</p>
 			<h1>
