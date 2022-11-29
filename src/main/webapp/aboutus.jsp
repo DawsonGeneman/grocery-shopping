@@ -10,8 +10,40 @@
 body, h1, h2, h3, h4, h5, h6 {
 	font-family: "Amatic SC", sans-serif
 }
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
 </style>
 <body>
+
+	<ul>
+		<li><a class="active" href="#home">Home</a></li>
+		<li><a href="#news">News</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<li><a href="#about">About</a></li>
+	</ul>
+
 	<!-- Start Content -->
 	<div id="home" class="w3-content">
 
@@ -19,7 +51,8 @@ body, h1, h2, h3, h4, h5, h6 {
 		<div id="about"
 			class="w3-container w3-red w3-grayscale w3-xlarge w3-padding-64">
 			<h1 class="w3-center w3-jumbo">About</h1>
-			<p> Grocery shopping a place of convienience for everyone buyiing stuff .</p>
+			<p>Grocery shopping a place of convienience for everyone buyiing
+				stuff .</p>
 			<p>
 				<strong>The Chef?</strong> Mr. Italiano himself<img
 					src="https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png"
@@ -27,8 +60,7 @@ body, h1, h2, h3, h4, h5, h6 {
 			</p>
 			<p>We are proud of our interiors.</p>
 			<p class="w3-padding-16 w3-stretch">
-				<img
-					src="https://media.timeout.com/images/105380546/image.jpg"
+				<img src="https://media.timeout.com/images/105380546/image.jpg"
 					style="width: 100%" alt="Restaurant">
 			</p>
 			<h1>
