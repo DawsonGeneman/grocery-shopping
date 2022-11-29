@@ -38,10 +38,10 @@ li a:hover {
 <body>
 
 	<ul>
-		<li><a class="active" href="#home">Home</a></li>
-		<li><a href="#news">News</a></li>
-		<li><a href="#contact">Contact</a></li>
-		<li><a href="#about">About</a></li>
+		<li><a class="active" href="home.jsp">Home</a></li>
+		<li><a href="products.jsp">Products</a></li>
+		<li><a href="#">Contact</a></li>
+		<li><a href="aboutus.jsp">About Us</a></li>
 	</ul>
 
 	<!-- Start Content -->
