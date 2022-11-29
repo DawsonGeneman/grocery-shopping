@@ -50,7 +50,7 @@ li a:hover {
 		<div id="about"
 			class="w3-container w3-red w3-grayscale w3-xlarge w3-padding-64">
 			<h1 class="w3-center w3-jumbo">About</h1>
-			<p>Grocery shopping a place of convienience for everyone buyiing
+			<p>Grocery shopping a place of convenience for everyone buying
 				stuff .</p>
 			<p>
 				<strong>The Chef?</strong> Mr. Italiano himself<img
