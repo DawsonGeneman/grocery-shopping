@@ -47,6 +47,7 @@ a {
 		rgba(0, 0, 0, 0.22);
 	transition: .4s;
 	background: #f2f2f2;
+	
 }
 
 .content:hover {
@@ -64,8 +65,9 @@ img {
 
 p {
 	text-align: center;
-	color: #b2bec3;
+	color: black;
 	padding-top: 0 8px;
+	
 }
 
 h6 {
@@ -164,10 +166,8 @@ h1 {
 
 			<h3>Apples</h3>
 
-			<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-				Autem, dolor eligendi ducimus, quibusdam quidem veritatis eius
-				beatae deserunt tenetur tempore quaerat a! Nisi, nemo molestias.
-				Aliquid aperiam cum cupiditate tempora!</p>
+			<p>China Fuji apples have bright red stripes over its creamy yellow flesh.
+                 Their flesh is sweet whilst having a firm, and crisp texture. They are grown in ideal weather conditions which produces high quality and shape.</p>
 
 			<h6>$10</h6>
 
@@ -197,10 +197,9 @@ h1 {
 
 			<h3>Banana</h3>
 
-			<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-				Autem, dolor eligendi ducimus, quibusdam quidem veritatis eius
-				beatae deserunt tenetur tempore quaerat a! Nisi, nemo molestias.
-				Aliquid aperiam cum cupiditate tempora!</p>
+			<p>These bananas have a smooth bright yellow skin. Peel it back to reveal a firm flesh that is mildly sweet. 
+			Recharge yourself with a banana after a workout for a guilt-free snack or indulge yourself with it as a topping for your desserts.
+			</p>
 
 			<h6>$4</h6>
 
@@ -232,10 +231,8 @@ h1 {
 
 			<h3>Oranges</h3>
 
-			<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-				Autem, dolor eligendi ducimus, quibusdam quidem veritatis eius
-				beatae deserunt tenetur tempore quaerat a! Nisi, nemo molestias.
-				Aliquid aperiam cum cupiditate tempora!</p>
+			<p>The mandarin is reddish-orange and oblate in shape with a soft, thin skin, which makes it easy to peel. 
+			It has a well-balanced sweet and acidic taste. Bite down in them raw for a quick snack to fill your tummy.</p>
 
 			<h6>$5</h6>
 
@@ -267,10 +264,7 @@ h1 {
 
 			<h3>Pear</h3>
 
-			<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-				Autem, dolor eligendi ducimus, quibusdam quidem veritatis eius
-				beatae deserunt tenetur tempore quaerat a! Nisi, nemo molestias.
-				Aliquid aperiam cum cupiditate tempora!</p>
+			<p> A fruit with a wide bottom, the Packham pear is green with dark spots on the skin. It boast a sweet and juicy white flesh that has a smooth and crisp texture.</p>
 
 			<h6>$5</h6>
 
