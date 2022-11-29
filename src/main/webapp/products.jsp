@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-https://github.com/DawsonGeneman/grocery-shopping/pull/6/conflict?name=src%252Fmain%252Fwebapp%252Fproducts.jsp&ancestor_oid=4342ff044f3150fcc42baccd1d6d9232fa588af1&base_oid=44be2984fad93cf18886513b8c9cf6cb8152a0df&head_oid=831dacefc54b7529e331484bf8d0d4a9f542eb28<title>Products Page</title>
+
 </head>
 
 <style>
@@ -197,6 +197,7 @@ li a:hover {
 				alt="">
 
 			<h3>Apples</h3>
+			<p>China Fuji apples have bright red stripes over its creamy yellow flesh. Their flesh is sweet whilst having a firm, and crisp texture. They are grown in ideal weather conditions which produces high quality and shape.</p>
 
 
 
@@ -214,6 +215,7 @@ li a:hover {
 				alt="">
 
 			<h3>Banana</h3>
+			<p>These bananas have a smooth bright yellow skin. Peel it back to reveal a firm flesh that is mildly sweet. Recharge yourself with a banana after a workout for a guilt-free snack or indulge yourself with it as a topping for your desserts.</p>
 
 
 
@@ -234,6 +236,7 @@ li a:hover {
 				alt="">
 
 			<h3>Oranges</h3>
+			<p>The mandarin is reddish-orange and oblate in shape with a soft, thin skin, which makes it easy to peel. It has a well-balanced sweet and acidic taste. Bite down in them raw for a quick snack to fill your tummy.</p>
 
 
 
@@ -254,6 +257,7 @@ li a:hover {
 				alt="">
 
 			<h3>Pear</h3>
+			<p> A fruit with a wide bottom, the Packham pear is green with dark spots on the skin. It boast a sweet and juicy white flesh that has a smooth and crisp texture.</p>
 
 
 
