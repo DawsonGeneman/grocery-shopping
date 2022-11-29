@@ -1,6 +1,6 @@
 <html>
 <meta charset="UTF-8">
-<title>Pizza</title>
+<title>About Us</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script src="https://www.w3schools.com/lib/w3.js"></script>
@@ -46,7 +46,6 @@ li a:hover {
 
 	<!-- Start Content -->
 	<div id="home" class="w3-content">
-
 		<!-- About -->
 		<div id="about"
 			class="w3-container w3-red w3-grayscale w3-xlarge w3-padding-64">
