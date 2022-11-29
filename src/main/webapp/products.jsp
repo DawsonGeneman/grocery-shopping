@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Products Page</title>
+https://github.com/DawsonGeneman/grocery-shopping/pull/6/conflict?name=src%252Fmain%252Fwebapp%252Fproducts.jsp&ancestor_oid=4342ff044f3150fcc42baccd1d6d9232fa588af1&base_oid=44be2984fad93cf18886513b8c9cf6cb8152a0df&head_oid=831dacefc54b7529e331484bf8d0d4a9f542eb28<title>Products Page</title>
 </head>
 
 <style>
@@ -138,6 +138,30 @@ h1 {
 	background: #ff9f43;
 }
 
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
 @media ( max-width :1000px) {
 	.content {
 		width: 45px;
@@ -153,6 +177,14 @@ h1 {
 
 <body>
 
+
+	<ul>
+		<li><a class="active" href="#home">Home</a></li>
+		<li><a href="#news">News</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<li><a href="#about">About</a></li>
+	</ul>
+
 	<h1>Our Products</h1>
 	<div class="gallery">
 
@@ -166,24 +198,10 @@ h1 {
 
 			<h3>Apples</h3>
 
-			<p>China Fuji apples have bright red stripes over its creamy yellow flesh.
-                 Their flesh is sweet whilst having a firm, and crisp texture. They are grown in ideal weather conditions which produces high quality and shape.</p>
+
 
 			<h6>$10</h6>
 
-			<ul>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-1">Buy Now</button>
 
@@ -197,25 +215,11 @@ h1 {
 
 			<h3>Banana</h3>
 
-			<p>These bananas have a smooth bright yellow skin. Peel it back to reveal a firm flesh that is mildly sweet. 
-			Recharge yourself with a banana after a workout for a guilt-free snack or indulge yourself with it as a topping for your desserts.
-			</p>
+
 
 			<h6>$4</h6>
 
-			<ul>
 
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-2">Buy Now</button>
 
@@ -231,24 +235,11 @@ h1 {
 
 			<h3>Oranges</h3>
 
-			<p>The mandarin is reddish-orange and oblate in shape with a soft, thin skin, which makes it easy to peel. 
-			It has a well-balanced sweet and acidic taste. Bite down in them raw for a quick snack to fill your tummy.</p>
+
 
 			<h6>$5</h6>
 
-			<ul>
 
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-3">Buy Now</button>
 
@@ -264,23 +255,11 @@ h1 {
 
 			<h3>Pear</h3>
 
-			<p> A fruit with a wide bottom, the Packham pear is green with dark spots on the skin. It boast a sweet and juicy white flesh that has a smooth and crisp texture.</p>
+
 
 			<h6>$5</h6>
 
-			<ul>
 
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-4">Buy Now</button>
 
