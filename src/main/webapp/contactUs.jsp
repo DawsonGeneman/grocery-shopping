@@ -95,7 +95,7 @@ input[type=submit]:hover {
 	<ul>
 		<li><a class="active" href="home.jsp">Home</a></li>
 		<li><a href="products.jsp">Products</a></li>
-		<li><a href="#">Contact</a></li>
+		<li><a href="contactUs.jsp">Contact</a></li>
 		<li><a href="aboutus.jsp">About Us</a></li>
 	</ul>
 
