@@ -140,6 +140,13 @@ h1 {
 	background: purple;
 }
 
+.buy-6 {
+	background: green;
+}
+
+.buy-7 {
+	background: red;
+}
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -302,6 +309,57 @@ li a:hover {
 
 
 			<button class="buy-5">Buy Now</button>
+
+
+
+		</div>
+
+		<div class="content">
+
+			<img
+				src="https://cdn.mos.cms.futurecdn.net/yS8FWsT4utzdzNJs6vFxfK.jpg"
+				alt="">
+
+			<h3>Watermelon</h3>
+			<p>Watermelon is believed to have first been domesticated over
+				4,000 years ago in Northeast Africa. It’s sweet
+				and juicy, making it the perfect treat to quench your thirst during
+				the summer heat. This large round fruit has a green rind and bright
+				red flesh. It’s also packed with nutrients, including antioxidants
+				and vitamins A and C.</p>
+
+
+
+			<h6>$5</h6>
+
+
+
+			<button class="buy-6">Buy Now</button>
+
+
+
+		</div>
+
+		<div class="content">
+
+			<img
+				src="http://clv.h-cdn.co/assets/15/22/2048x2048/square-1432664914-strawberry-facts1.jpg"
+				alt="">
+
+			<h3>Strawberry</h3>
+			<p>Strawberries are good for your whole body. They naturally
+				deliver vitamins, fiber, and particularly high levels of
+				antioxidants known as polyphenols -- without any sodium, fat, or
+				cholesterol. They are among the top 20 fruits in antioxidant
+				capacity and are a good source of manganese and potassium.</p>
+
+
+
+			<h6>$5</h6>
+
+
+
+			<button class="buy-7">Buy Now</button>
 
 
 
