@@ -147,10 +147,6 @@ h1 {
 .buy-7 {
 	background: red;
 }
-.buy-8 {
-	background: brown;
-}
-
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -194,7 +190,7 @@ li a:hover {
 	<ul>
 		<li><a class="active" href="home.jsp">Home</a></li>
 		<li><a href="products.jsp">Products</a></li>
-		<li><a href="#">Contact</a></li>
+		<li><a href="contactUs.jsp">Contact</a></li>
 		<li><a href="aboutus.jsp">About Us</a></li>
 	</ul>
 
@@ -326,10 +322,11 @@ li a:hover {
 
 			<h3>Watermelon</h3>
 			<p>Watermelon is believed to have first been domesticated over
-				4,000 years ago in Northeast Africa. It’s sweet and juicy, making it
-				the perfect treat to quench your thirst during the summer heat. This
-				large round fruit has a green rind and bright red flesh. It’s also
-				packed with nutrients, including antioxidants and vitamins A and C.</p>
+				4,000 years ago in Northeast Africa. It’s sweet
+				and juicy, making it the perfect treat to quench your thirst during
+				the summer heat. This large round fruit has a green rind and bright
+				red flesh. It’s also packed with nutrients, including antioxidants
+				and vitamins A and C.</p>
 
 
 
@@ -367,29 +364,7 @@ li a:hover {
 
 
 		</div>
-		<div class="content">
 
-			<img
-				src="https://i.guim.co.uk/img/media/a741fcb2bb3efbcf3c8def73961973205a32052f/0_644_3380_2028/master/3380.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=fd2261c06506faffd1614e7d0c84bf9f"
-				alt="">
-
-			<h3>Kiwi</h3>
-			<p>Kiwis are high in Vitamin C and dietary fiber and provide a
-				variety of health benefits. This tart fruit can support heart
-				health, digestive health, and immunity. The kiwi is a healthy choice
-				of fruit and is rich with vitamins and antioxidants</p>
-
-
-
-			<h6>$7</h6>
-
-
-
-			<button class="buy-8">Buy Now</button>
-
-
-
-		</div>
 	</div>
 </body>
 </html>
