@@ -33,6 +33,7 @@ body, h1, h2, h3, h4, h5, h6 {
 			</p>
 			<h1>
 				<b>Opening Hours</b>
+				<b>2pm - 10pm</b>
 			</h1>
 			<div class="w3-row">
 				<div class="w3-half">
