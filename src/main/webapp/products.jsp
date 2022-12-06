@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Products Page</title>
+
 </head>
 
 <style>
@@ -47,7 +47,6 @@ a {
 		rgba(0, 0, 0, 0.22);
 	transition: .4s;
 	background: #f2f2f2;
-	
 }
 
 .content:hover {
@@ -67,7 +66,6 @@ p {
 	text-align: center;
 	color: black;
 	padding-top: 0 8px;
-	
 }
 
 h6 {
@@ -138,6 +136,34 @@ h1 {
 	background: #ff9f43;
 }
 
+.buy-5 {
+	background: purple;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
 @media ( max-width :1000px) {
 	.content {
 		width: 45px;
@@ -153,6 +179,14 @@ h1 {
 
 <body>
 
+
+	<ul>
+		<li><a class="active" href="home.jsp">Home</a></li>
+		<li><a href="products.jsp">Products</a></li>
+		<li><a href="#">Contact</a></li>
+		<li><a href="aboutus.jsp">About Us</a></li>
+	</ul>
+
 	<h1>Our Products</h1>
 	<div class="gallery">
 
@@ -165,25 +199,15 @@ h1 {
 				alt="">
 
 			<h3>Apples</h3>
+			<p>China Fuji apples have bright red stripes over its creamy
+				yellow flesh. Their flesh is sweet whilst having a firm, and crisp
+				texture. They are grown in ideal weather conditions which produces
+				high quality and shape.</p>
 
-			<p>China Fuji apples have bright red stripes over its creamy yellow flesh.
-                 Their flesh is sweet whilst having a firm, and crisp texture. They are grown in ideal weather conditions which produces high quality and shape.</p>
+
 
 			<h6>$10</h6>
 
-			<ul>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-1">Buy Now</button>
 
@@ -196,26 +220,16 @@ h1 {
 				alt="">
 
 			<h3>Banana</h3>
+			<p>These bananas have a smooth bright yellow skin. Peel it back
+				to reveal a firm flesh that is mildly sweet. Recharge yourself with
+				a banana after a workout for a guilt-free snack or indulge yourself
+				with it as a topping for your desserts.</p>
 
-			<p>These bananas have a smooth bright yellow skin. Peel it back to reveal a firm flesh that is mildly sweet. 
-			Recharge yourself with a banana after a workout for a guilt-free snack or indulge yourself with it as a topping for your desserts.
-			</p>
+
 
 			<h6>$4</h6>
 
-			<ul>
 
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-2">Buy Now</button>
 
@@ -230,25 +244,16 @@ h1 {
 				alt="">
 
 			<h3>Oranges</h3>
+			<p>The mandarin is reddish-orange and oblate in shape with a
+				soft, thin skin, which makes it easy to peel. It has a well-balanced
+				sweet and acidic taste. Bite down in them raw for a quick snack to
+				fill your tummy.</p>
 
-			<p>The mandarin is reddish-orange and oblate in shape with a soft, thin skin, which makes it easy to peel. 
-			It has a well-balanced sweet and acidic taste. Bite down in them raw for a quick snack to fill your tummy.</p>
+
 
 			<h6>$5</h6>
 
-			<ul>
 
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-3">Buy Now</button>
 
@@ -263,26 +268,40 @@ h1 {
 				alt="">
 
 			<h3>Pear</h3>
+			<p>A fruit with a wide bottom, the Packham pear is green with
+				dark spots on the skin. It boast a sweet and juicy white flesh that
+				has a smooth and crisp texture.</p>
 
-			<p> A fruit with a wide bottom, the Packham pear is green with dark spots on the skin. It boast a sweet and juicy white flesh that has a smooth and crisp texture.</p>
+
 
 			<h6>$5</h6>
 
-			<ul>
 
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-				<li><i class="fa fa-star-checked"></i></li>
-
-			</ul>
 
 			<button class="buy-4">Buy Now</button>
+
+
+
+		</div>
+
+		<div class="content">
+
+			<img
+				src="https://healthyfamilyproject.com/wp-content/uploads/2020/05/Grapes-background.jpg"
+				alt="">
+
+			<h3>Grape</h3>
+			<p>A grape is a fruit, botanically a berry, of the deciduous
+				woody vines of the flowering plant genus Vitis. Grapes are a
+				non-climacteric type of fruit, generally occurring in clusters.</p>
+
+
+
+			<h6>$5</h6>
+
+
+
+			<button class="buy-5">Buy Now</button>
 
 
 

@@ -1,6 +1,6 @@
 <html>
 <meta charset="UTF-8">
-<title>Pizza</title>
+<title>About Us</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <script src="https://www.w3schools.com/lib/w3.js"></script>
@@ -14,18 +14,18 @@ body, h1, h2, h3, h4, h5, h6 {
 <body>
 	<!-- Start Content -->
 	<div id="home" class="w3-content">
-
 		<!-- About -->
 		<div id="about"
 			class="w3-container w3-red w3-grayscale w3-xlarge w3-padding-64">
 			<h1 class="w3-center w3-jumbo">About</h1>
-			<p> Grocery shopping a place of convienience for everyone buyiing stuff .</p>
+			<p> Grocery shopping a place of convenience for everyone buying stuff .</p>
 			<p>
 				<strong>The Chef?</strong> Mr. Italiano himself<img
 					src="https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png"
 					style="width: 150px" class="w3-circle w3-right" alt="Chef">
 			</p>
 			<p>We are proud of our interiors.</p>
+			
 			<p class="w3-padding-16 w3-stretch">
 				<img
 					src="https://media.timeout.com/images/105380546/image.jpg"

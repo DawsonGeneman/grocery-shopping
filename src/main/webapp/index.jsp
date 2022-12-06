@@ -12,7 +12,7 @@
 <body>
 
 <h1>Grocery shit</h1>
-<a href="homepage.jsp">
+<a href="home.jsp">
             <button class="btn btn-primary btn-lg">Click</button>
         </a>
 
