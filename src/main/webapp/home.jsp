@@ -59,7 +59,7 @@ li a:hover {
 			</span>
 			<p>
 				<a href="products.jsp" class="w3-button w3-xxlarge w3-black">Products
-					Available</a>
+					Availableeeee</a>
 			</p>
 		</div>
 	</div>
