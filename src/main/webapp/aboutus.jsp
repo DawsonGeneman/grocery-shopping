@@ -43,7 +43,7 @@ body, h1, h2, h3, h4, h5, h6 {
 				<div class="w3-half">
 					<p>Friday 10:00 - 12:00</p>
 					<p>Saturday 10:00 - 23:00</p>
-					<p>Sunday Closed</p>
+					<p>Sunday Closedd</p>
 				</div>
 			</div>
 		</div>
