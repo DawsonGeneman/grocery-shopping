@@ -24,8 +24,6 @@ body, h1, h2, h3, h4, h5, h6 {
 					src="https://www.ecpi.edu/sites/default/files/CIV%20Sept%2026.png"
 					style="width: 150px" class="w3-circle w3-right" alt="Chef">
 			</p>
-			<p>We are proud of our interiors.</p>
-			
 			<p class="w3-padding-16 w3-stretch">
 				<img
 					src="https://media.timeout.com/images/105380546/image.jpg"
