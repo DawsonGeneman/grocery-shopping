@@ -10,7 +10,7 @@
 <style>
 body {
 	margin: 0;
-	font-family: sans-serif;
+	font-family: "Amatic SC", sans-serif
 	background: #f2f2f2;
 }
 
@@ -183,7 +183,7 @@ li a:hover {
 	<ul>
 		<li><a class="active" href="home.jsp">Home</a></li>
 		<li><a href="products.jsp">Products</a></li>
-		<li><a href="#">Contact</a></li>
+		<li><a href="contactUs.jsp">Contact</a></li>
 		<li><a href="aboutus.jsp">About Us</a></li>
 	</ul>
 
